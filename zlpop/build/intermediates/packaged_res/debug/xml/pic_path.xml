@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--files-path====/data/data/<package-name>/files/path/-->
+    <!--cache-path====/data/data/<package-name>/cache/path/-->
+    <!--external-files-path=====/storage/emulated/0/Android/data/<package-name>files/path/-->
+    <!--external-path====/storage/emulated/0/path/-->
+    <!--external-cache-path====/storage/emulated/0/Android/data<package-name>/cache/path/-->
+    <external-path
+        name="camera_photos"
+        path="camera/" />
+    <external-path
+        name="my_images"
+        path="pictures/" />
+</paths>
