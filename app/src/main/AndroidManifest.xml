@@ -3,5 +3,6 @@
     package="cn.itcss.zlpopupwindow">
 
     <application android:theme="@style/AppTheme">
+    </application>
 
 </manifest>
